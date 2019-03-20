@@ -1,6 +1,6 @@
 <?php
     /* 
-        SINTAXE OPERADOR UNARIO
+        SINTAXE OPERADOR TERNARIO
 
         EXPRESSAO ? VERDADEIRO : FALSO
     */
